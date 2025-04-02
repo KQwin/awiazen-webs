@@ -3,7 +3,7 @@
 **Aviazen** is a lightweight affiliate-based web application that helps users search and compare cheap flight tickets worldwide in real time.
 
 🔗 **Live demo**: [https://awiazen-webs.vercel.app](https://awiazen-webs.vercel.app)  
-🤖 **Try our Telegram bot**: [@aviazenlitebot](https://t.me/aviazenlitebot)
+🤖 **Try our Telegram bot**: [@aviazenlitebot](https://t.me/@KriptoSignalBot_bot)
 
 ---
 
